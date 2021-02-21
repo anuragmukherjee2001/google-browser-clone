@@ -1,0 +1,5 @@
+*.txt
+*.fakeExtension
+*.fakeTxt
+*.editorconfig
+.idea
