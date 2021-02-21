@@ -13,7 +13,10 @@ Sys package is preinstalled and cones along with python.
 To install other packages used:-(For windows)
 
 `
-pip install PyQt5 
+pip install PyQt5
+`
+</br>
+`
 pip install QtWebEngine
 `
 
@@ -21,6 +24,9 @@ To install other packages used:-(For Linux)
 
 `
 pip3 install PyQt5
+`
+</br>
+`
 pip3 install QtWebEngine
 `
 ## Picture of the project:-
